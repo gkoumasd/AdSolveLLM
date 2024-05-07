@@ -5,6 +5,8 @@ pi_coi:
     page_path: "https://maria-liakata-nlp-group.github.io/"
     institution: "Queen Mary University of London"
     desc: "Natural Language Processing"
+    homepage: "https://maria-liakata-nlp-group.github.io/"
+    scholar: "https://scholar.google.co.uk/citations?user=eys5GB4AAAAJ&hl=en"
 
 research_staff:
   - name: "Some Person A"
