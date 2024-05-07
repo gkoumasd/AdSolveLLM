@@ -1,0 +1,43 @@
+
+pi_coi:
+  - name: "A Person A"
+    image_filename: "pic01.jpg"
+    page_path: "relative_path_to_page"
+    desc: ""
+  - name: "A Person B"
+    image_filename: "pic02.jpg"
+    page_path: "relative_path_to_page"
+    desc: ""
+  - name: "A Person C"
+    image_filename: "pic03.jpg"
+    page_path: "relative_path_to_page"
+    desc: ""
+  - name: "A Person D"
+    image_filename: "pic04.jpg"
+    page_path: "relative_path_to_page"
+    desc: ""
+  - 
+
+research_staff:
+  - name: "Some Person A"
+    image_filename: "pic05.jpg"
+    page_path: "relative_path_to_page"
+  - name: "Some Person B"
+    image_filename: "pic06.jpg"
+    page_path: "relative_path_to_page"
+  - name: "Some Person C"
+    image_filename: "pic07.jpg"
+    page_path: "relative_path_to_page"
+  - name: "Some Person D"
+    image_filename: "pic08.jpg"
+    page_path: "relative_path_to_page"
+
+institutions:
+  - name: "QMUL"
+    image_filename: "logo_qmul.jpeg"
+  - name: "Nottingham"
+    image_filename: "logo_nottingham.png"
+  - name: "Sheffield"
+    image_filename: "logo_sheffield.png"
+  - name: "Warwick"
+    image_filename: "logo_warwick.png"
